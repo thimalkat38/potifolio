@@ -27,13 +27,14 @@ export const HeroSection = () => {
           </p>
 
 
-          <div className="flex justify-center pt-4 opacity-0 animate-fade-in-delay-3">
-            <img
-              src="/my.PNG"
-              alt="Profile"
-              className="w-100 h-100 rounded-full border-4 border-white shadow-lg"
-            />
-          </div>
+<div className="flex justify-center pt-4 opacity-0 animate-fade-in-delay-3">
+  <img
+    src="/my.PNG"
+    alt="Profile"
+    className="w-32 h-32 sm:w-48 sm:h-48 md:w-64 md:h-64 rounded-full border-4 border-white shadow-lg object-cover"
+  />
+</div>
+
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
             <a href="#projects" className="cosmic-button">
