@@ -15,7 +15,7 @@ const projects = [
     // ✅ Thumbnail image to show on the card (put any image here)
     thumbnail: "/projects/HBS/1.PNG",
 
-    tags: ["Laravel", "HTML/CSS"],
+    tags: ["Laravel", "Tailwind CSS"],
     demoUrl: "https://cars.ezonepos.lk",
     githubUrl: "https://github.com/My-It-Solutions/HBS-Rent-a-Car-System.git",
   },
